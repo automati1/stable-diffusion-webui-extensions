@@ -468,7 +468,7 @@
             ],
             "full_name": "zanllp/infinite-image-browsing",
             "github_description": "A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from  SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as standalone app, SD-webui extension, or library.",
-            "stars": 1305,
+            "stars": 1306,
             "default_branch": "main",
             "created_at": "2023-03-07T18:26:27Z",
             "default_branch_commit_sha": "44e2370c3bd504e9e8e69f9bd4f8c764488ceb43",
